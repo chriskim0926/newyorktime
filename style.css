@@ -1,0 +1,30 @@
+body {
+    margin: 0 auto;
+    padding: 20px;
+  }
+  h1 {
+    text-align: center;
+    background-color: #003366;
+    color: white;
+    padding: 50px;
+    border-radius: 5px;
+  }
+
+  #search-header{
+      background-color: lightgray;
+      border-top-left-radius: 5px;
+      border-top-right-radius: 5px;
+      
+
+  }
+  .form-box{
+      background-color: white;
+      border-style: solid;
+      border-color:lightgrey;
+      margin-top: -10px;   
+    }
+
+.form-group{
+
+    margin-left: 15px;
+}
